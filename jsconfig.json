@@ -13,7 +13,7 @@
     "noUnusedParameters": false,
     "strict": true,
     "skipLibCheck": true,
-    "target": "esnext"
+    "target": "es2017"
   },
   "exclude": ["node_modules", "dist"]
 }
