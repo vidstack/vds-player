@@ -1,0 +1,1 @@
+{"version":3,"file":"context.js","sourceRoot":"","sources":["../../../src/ui/scrubber-preview/context.js"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,mCAAmC,CAAC;AAElE,MAAM,CAAC,MAAM,sBAAsB,GAAG;IACpC,IAAI,EAAE,aAAa,CAAC,CAAC,CAAC;IACtB,OAAO,EAAE,aAAa,CAAC,KAAK,CAAC;CAC9B,CAAC"}
