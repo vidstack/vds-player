@@ -49,6 +49,7 @@
     "format": "run-s format:*",
     "format:eslint": "npm run lint:eslint -- --fix",
     "format:prettier": "npm run lint:prettier -- --write",
+    "postinstall": "npm run build",
     "prepare": "husky install",
     "start": "npm run storybook",
     "storybook": "start-storybook -s .storybook/public",
